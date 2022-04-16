@@ -1,0 +1,2 @@
+# po
+print (" zin chào")
